@@ -1,2 +1,2 @@
 # Surgery_robotics
-Master thesis repository
+Master thesis "Investigations on Teleoperation in Robot-Assisted Microsurgery" repository
